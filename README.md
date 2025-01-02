@@ -50,6 +50,3 @@ This is a simple movie recommendation system built using **Flask** and **Surpris
 - The system is built on **Collaborative Filtering** using **SVD** (Singular Value Decomposition) from the Surprise library.
 - The user inputs their `user_id` and `movie_id` on the web interface.
 - The app predicts the rating the user would give to that particular movie based on their previous ratings and the ratings of other similar users.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
